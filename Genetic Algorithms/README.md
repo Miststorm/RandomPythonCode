@@ -1,5 +1,5 @@
-##This is a rudimentary genetic algorithm I wrote in 9th grade
-###Below are the commands and general help. This message can also be shown in the terminal by typing help
+## This is a rudimentary genetic algorithm I wrote in 9th grade
+### Below are the commands and general help. This message can also be shown in the terminal by typing help
 
 
 
